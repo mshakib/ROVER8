@@ -1,0 +1,34 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+
+!src/
+!src/**
+
+!libs/
+!libs/**
+
+!Maps/
+!Maps/**
+
+!docs/
+!docs/**
+
+!images/
+!images/**
+
+!*.txt
+!*.md
+
+
+# MAC and Windows Hidden System Files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+**/Thumbs.db
+.Trashes
+**/.Trashes
+._.Trashes
+**/._.Trashes
